@@ -688,9 +688,9 @@ img {
 .progress-bar {
 	display: block;
 	width: 0;
-	height: 1px;
+	height: 2px;
 	background: $primary-color;
-	box-shadow: 0 0 1px $primary-color, 0 0 3px $primary-color;
+	box-shadow: 0 0 2px $primary-color, 0 0 4px $primary-color;
 }
 
 /* ==========================================================================
